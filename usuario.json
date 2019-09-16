@@ -1,0 +1,43 @@
+[
+    {
+        "nombre": "jorge",
+        "mail": "lozadajorg@gmail.com",
+        "login": "jlozada",
+        "hobbie": [
+            "1",
+            "4",
+            "6"
+        ],
+        "edad": "38",
+        "pais": "0",
+        "gen": "1",
+        "clave": "202cb962ac59075b964b07152d234b70"
+    },
+    {
+        "nombre": "SABRINA",
+        "mail": "SABRINA@EJEMPLO.COM",
+        "login": "SABRI",
+        "hobbie": [
+            "1",
+            "6"
+        ],
+        "edad": "30",
+        "pais": "0",
+        "gen": "2",
+        "clave": "81dc9bdb52d04dc20036dbd8313ed055"
+    },
+    {
+        "nombre": "jorge",
+        "mail": "lozadajorg@gmail.com",
+        "login": "lozada",
+        "hobbie": [
+            "1",
+            "5",
+            "7"
+        ],
+        "edad": "38",
+        "pais": "0",
+        "gen": "1",
+        "clave": "81dc9bdb52d04dc20036dbd8313ed055"
+    }
+]

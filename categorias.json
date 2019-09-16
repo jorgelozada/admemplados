@@ -1,0 +1,14 @@
+{"categorias":[
+    {"id":1,"nombre":"Video Juegos"},
+    {"id":2,"nombre":"Historia"},
+    {"id":3,"nombre":"Espactuculos"},
+    {"id":4,"nombre":"Cine"},
+    {"id":5,"nombre":"Lectura"},
+    {"id":6,"nombre":"Futbol"},
+    {"id":7,"nombre":"Viajar"},
+    {"id":8,"nombre":"Dormir"},
+    {"id":9,"nombre":"Arte"},
+    {"id":10,"nombre":"Musica"},
+    {"id":11,"nombre":"Otros"}
+]
+}
